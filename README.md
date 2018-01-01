@@ -26,7 +26,7 @@ $ git://github.com/kendalhowse/FinalProject_CST2335.git
 ## Authors
 
 * **Kendal Howse** - *Automobile and Gas Tacking* - [Kendal](https://github.com/kendalhowse)
-* **Chris Labelle** - *Nutrion Information Tacking* - [clabelle21](https://github.com/clabelle21)
+* **Chris Labelle** - *Nutrion Information Tacking, Toolbar* - [clabelle21](https://github.com/clabelle21)
 * **Melissa Rajala** - *Activity Tacking* - [MRajjy](https://github.com/MRajjy)
 * **Steven Adema** - *Thermostat Controller* - [Steven](https://github.com/StevenAdema)
 
